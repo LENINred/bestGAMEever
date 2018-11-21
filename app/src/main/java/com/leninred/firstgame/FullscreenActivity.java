@@ -20,6 +20,7 @@ public class FullscreenActivity extends AppCompatActivity {
         @Override
         public void onClick(View v) {
             //if (aslkdaskdajdjaskljdjaskljdklajskdjkajsdjkajsdkjakjsdkj)
+            //sdfsdfsdf
             Toast.makeText(FullscreenActivity.this, "Первый тост", Toast.LENGTH_SHORT).show();
         }
     };
